@@ -1,5 +1,5 @@
 # アプリ名
-メモアプリ
+Flaskメモアプリ　Flask-memoapp
 
 ## アプリについて
 PythonフレームワークFlaskで作成したメモアプリです。<br>
